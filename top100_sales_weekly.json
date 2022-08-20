@@ -3693,43 +3693,6 @@
   },
   {
     "rank": 93,
-    "id": "",
-    "collectionName": "Bored Ape Yacht Club",
-    "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
-    "marketplaceAddress": "0x00000000006c3852cbef3e08e8df289169ede581",
-    "transactionHash": "0x4cb38c9023e8f2d6d094c31b29badb79473260924d8ac27b72af9e3a07e4e2e5",
-    "buyer": "0xB4011753221E622583F04ed759c55A6fd9e41c47",
-    "buyerDisplay": "0xB4011753221E622583F04ed759c55A6fd9e41c47",
-    "seller": "0x2be1183806BBBd6d3797640478701B44a6ADEbD9",
-    "sellerDisplay": "0x2be1183806BBBd6d3797640478701B44a6ADEbD9",
-    "price": 78.0,
-    "priceUSD": 146832.5625,
-    "imageURI": "https://ipfs.cryptoslam.io/ipfs/QmXtWYnUxcuZ2yWLidJTqmSeVbfE62UBpnbrQs9Vo9K48N",
-    "tokens": [
-      {
-        "tokenId": "8373",
-        "address": null,
-        "attributes": {
-          "image": "https://ipfs.cryptoslam.io/ipfs/QmXtWYnUxcuZ2yWLidJTqmSeVbfE62UBpnbrQs9Vo9K48N",
-          "Background": "Yellow",
-          "clothes": "Bone Tee",
-          "mouth": "Phoneme Vuh",
-          "Eyes": "Closed",
-          "Fur": "Noise",
-          "Hat": "Spinner Hat"
-        },
-        "name": null,
-        "value": null,
-        "multiTokenId": null
-      }
-    ],
-    "timeStamp": "2022-08-13T06:34:57",
-    "paymentToken": "WETH",
-    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/opensea-logo.png",
-    "marketplaceName": "OpenSea"
-  },
-  {
-    "rank": 94,
     "id": "62fd0fb1f8a4630adafabd21",
     "collectionName": null,
     "collectionImage": "",
@@ -3769,7 +3732,7 @@
     "marketplaceName": "OpenSea"
   },
   {
-    "rank": 95,
+    "rank": 94,
     "id": "62fa3a04f8a4630ada5ba2d6",
     "collectionName": "CryptoPunks",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/cryptopunks-logo_resized.png",
@@ -3816,7 +3779,7 @@
     "marketplaceName": "CryptoPunks"
   },
   {
-    "rank": 96,
+    "rank": 95,
     "id": "62ff80bef8a4630ada20e3d1",
     "collectionName": "Axie Infinity",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/axie-infinity-logo_resized.png",
@@ -3866,7 +3829,7 @@
     "marketplaceName": "Axie"
   },
   {
-    "rank": 97,
+    "rank": 96,
     "id": "62fc8e32f8a4630adae89c15",
     "collectionName": "CryptoPunks",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/cryptopunks-logo_resized.png",
@@ -3913,7 +3876,7 @@
     "marketplaceName": "CryptoPunks"
   },
   {
-    "rank": 98,
+    "rank": 97,
     "id": "",
     "collectionName": "Bored Ape Yacht Club",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
@@ -3951,7 +3914,7 @@
     "marketplaceName": "X2Y2"
   },
   {
-    "rank": 99,
+    "rank": 98,
     "id": "",
     "collectionName": "Bored Ape Yacht Club",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
@@ -3989,7 +3952,7 @@
     "marketplaceName": "X2Y2"
   },
   {
-    "rank": 100,
+    "rank": 99,
     "id": "",
     "collectionName": "Bored Ape Yacht Club",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
@@ -4025,5 +3988,41 @@
     "paymentToken": "ETH",
     "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/x2y2.png",
     "marketplaceName": "X2Y2"
+  },
+  {
+    "rank": 100,
+    "id": "",
+    "collectionName": "Bored Ape Yacht Club",
+    "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
+    "marketplaceAddress": "0x00000000006c3852cbef3e08e8df289169ede581",
+    "transactionHash": "0xf755319cf3ef9da3d994f133f072fcb39d238224ac30230ecbd0435b8b0ee5ce",
+    "buyer": "0x36e3B8036faA6888d00209FFA20602B958e53740",
+    "buyerDisplay": "0x36e3B8036faA6888d00209FFA20602B958e53740",
+    "seller": "0xf1aaBD530C11eB9385e790d98EbB2B793A3d8165",
+    "sellerDisplay": "0xf1aaBD530C11eB9385e790d98EbB2B793A3d8165",
+    "price": 76.9499969482422,
+    "priceUSD": 141161.34375,
+    "imageURI": "https://ipfs.cryptoslam.io/ipfs/QmVPK6BVFi8s6PmHtmr9jwjQKdVuotoqajQ58QPUuUbVfu",
+    "tokens": [
+      {
+        "tokenId": "4052",
+        "address": null,
+        "attributes": {
+          "image": "https://ipfs.cryptoslam.io/ipfs/QmVPK6BVFi8s6PmHtmr9jwjQKdVuotoqajQ58QPUuUbVfu",
+          "Background": "Army Green",
+          "clothes": "Striped Tee",
+          "mouth": "Bored Unshaven",
+          "Eyes": "Bored",
+          "Fur": "White"
+        },
+        "name": null,
+        "value": null,
+        "multiTokenId": null
+      }
+    ],
+    "timeStamp": "2022-08-18T21:08:27",
+    "paymentToken": "WETH",
+    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/opensea-logo.png",
+    "marketplaceName": "OpenSea"
   }
 ]
