@@ -1190,35 +1190,6 @@
   },
   {
     "rank": 42,
-    "id": "62da3ab334fa8fce537e3c99",
-    "collectionName": null,
-    "collectionImage": "",
-    "marketplaceAddress": "0x59728544b08ab483533076417fbbb2fd0b17ce3a",
-    "transactionHash": "0x773f18664fcc7177854c028035d7454350e8973eec82e42af632a1e754240de4",
-    "buyer": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
-    "buyerDisplay": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
-    "seller": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
-    "sellerDisplay": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
-    "price": 1250.0,
-    "priceUSD": 1947211.813713475,
-    "imageURI": "https://d35vxokfjoq7rk.cloudfront.net/0x4e1f41613c9084fdb9e34e11fae9412427480e56/9728.png?d=66",
-    "tokens": [
-      {
-        "tokenId": "9728",
-        "address": "0x4e1f41613c9084fdb9e34e11fae9412427480e56",
-        "attributes": {},
-        "name": null,
-        "value": null,
-        "multiTokenId": null
-      }
-    ],
-    "timeStamp": "2022-07-22T05:50:09Z",
-    "paymentToken": "WETH",
-    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/looksrare.png",
-    "marketplaceName": "LooksRare"
-  },
-  {
-    "rank": 43,
     "id": "62dc84e934fa8fce53cb4023",
     "collectionName": null,
     "collectionImage": "",
@@ -1247,7 +1218,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 44,
+    "rank": 43,
     "id": "62e92c3c34fa8fce53f3cbbb",
     "collectionName": null,
     "collectionImage": "",
@@ -1276,7 +1247,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 45,
+    "rank": 44,
     "id": "62db317b34fa8fce536ab463",
     "collectionName": null,
     "collectionImage": "",
@@ -1305,36 +1276,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 46,
-    "id": "62da3b4834fa8fce53844019",
-    "collectionName": null,
-    "collectionImage": "",
-    "marketplaceAddress": "0x59728544b08ab483533076417fbbb2fd0b17ce3a",
-    "transactionHash": "0x4cf53d33306c4bba5c6557c19f5d1eda025a69d1bd730d2d882de03fe86f23b7",
-    "buyer": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
-    "buyerDisplay": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
-    "seller": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
-    "sellerDisplay": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
-    "price": 1225.0,
-    "priceUSD": 1908267.5774392055,
-    "imageURI": "https://d35vxokfjoq7rk.cloudfront.net/0x4e1f41613c9084fdb9e34e11fae9412427480e56/9559.png?d=66",
-    "tokens": [
-      {
-        "tokenId": "9559",
-        "address": "0x4e1f41613c9084fdb9e34e11fae9412427480e56",
-        "attributes": {},
-        "name": null,
-        "value": null,
-        "multiTokenId": null
-      }
-    ],
-    "timeStamp": "2022-07-22T05:52:11Z",
-    "paymentToken": "WETH",
-    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/looksrare.png",
-    "marketplaceName": "LooksRare"
-  },
-  {
-    "rank": 47,
+    "rank": 45,
     "id": "62dc852b34fa8fce53ceb75e",
     "collectionName": null,
     "collectionImage": "",
@@ -1363,7 +1305,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 48,
+    "rank": 46,
     "id": "62db31f834fa8fce536f98ac",
     "collectionName": null,
     "collectionImage": "",
@@ -1392,7 +1334,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 49,
+    "rank": 47,
     "id": "62df190134fa8fce534522c7",
     "collectionName": null,
     "collectionImage": "",
@@ -1421,7 +1363,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 50,
+    "rank": 48,
     "id": "62e55ef634fa8fce53498744",
     "collectionName": null,
     "collectionImage": "",
@@ -1450,7 +1392,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 51,
+    "rank": 49,
     "id": "62e55f8734fa8fce53517f94",
     "collectionName": null,
     "collectionImage": "",
@@ -1479,7 +1421,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 52,
+    "rank": 50,
     "id": "62df199734fa8fce534c2477",
     "collectionName": null,
     "collectionImage": "",
@@ -1508,7 +1450,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 53,
+    "rank": 51,
     "id": "62ff53c9f8a4630ada1b2fcb",
     "collectionName": null,
     "collectionImage": "",
@@ -1537,7 +1479,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 54,
+    "rank": 52,
     "id": "62e06a5e34fa8fce53d5fd37",
     "collectionName": null,
     "collectionImage": "",
@@ -1566,7 +1508,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 55,
+    "rank": 53,
     "id": "62ff5534f8a4630ada2a8e35",
     "collectionName": null,
     "collectionImage": "",
@@ -1595,7 +1537,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 56,
+    "rank": 54,
     "id": "62e1bfb834fa8fce53c5498d",
     "collectionName": null,
     "collectionImage": "",
@@ -1624,7 +1566,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 57,
+    "rank": 55,
     "id": "62e06a7134fa8fce53d690f9",
     "collectionName": null,
     "collectionImage": "",
@@ -1653,7 +1595,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 58,
+    "rank": 56,
     "id": "6300a3b5f8a4630ada73b9a2",
     "collectionName": null,
     "collectionImage": "",
@@ -1682,7 +1624,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 59,
+    "rank": 57,
     "id": "62e1c05334fa8fce53cb41c4",
     "collectionName": null,
     "collectionImage": "",
@@ -1711,7 +1653,7 @@
     "marketplaceName": "LooksRare"
   },
   {
-    "rank": 60,
+    "rank": 58,
     "id": "6300a435f8a4630ada7a5432",
     "collectionName": null,
     "collectionImage": "",
@@ -1735,6 +1677,64 @@
       }
     ],
     "timeStamp": "2022-08-20T09:06:12Z",
+    "paymentToken": "WETH",
+    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/looksrare.png",
+    "marketplaceName": "LooksRare"
+  },
+  {
+    "rank": 59,
+    "id": "6301f5bdf8a4630adae99afb",
+    "collectionName": null,
+    "collectionImage": "",
+    "marketplaceAddress": "0x59728544b08ab483533076417fbbb2fd0b17ce3a",
+    "transactionHash": "0xdbe6e42b8c2b91224bf9ac204985a80fde982c5449eb91d0f6c0aeb1cf623172",
+    "buyer": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
+    "buyerDisplay": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
+    "seller": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
+    "sellerDisplay": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
+    "price": 1024.0,
+    "priceUSD": 1634452.6568469503,
+    "imageURI": "https://d35vxokfjoq7rk.cloudfront.net/0x4e1f41613c9084fdb9e34e11fae9412427480e56/9559.png?d=66",
+    "tokens": [
+      {
+        "tokenId": "9559",
+        "address": "0x4e1f41613c9084fdb9e34e11fae9412427480e56",
+        "attributes": {},
+        "name": null,
+        "value": null,
+        "multiTokenId": null
+      }
+    ],
+    "timeStamp": "2022-08-21T09:06:50Z",
+    "paymentToken": "WETH",
+    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/looksrare.png",
+    "marketplaceName": "LooksRare"
+  },
+  {
+    "rank": 60,
+    "id": "6301f733f8a4630adaf8e531",
+    "collectionName": null,
+    "collectionImage": "",
+    "marketplaceAddress": "0x59728544b08ab483533076417fbbb2fd0b17ce3a",
+    "transactionHash": "0x9d5fd2925106fa80c0f821f7b3e4c793fd89b6a222f78948e96544a7a51c7921",
+    "buyer": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
+    "buyerDisplay": "0xd73e0def01246b650d8a367a4b209be59c8be8ab",
+    "seller": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
+    "sellerDisplay": "0xa53496b67eec749ac41b4666d63228a0fb0409cf",
+    "price": 1003.52,
+    "priceUSD": 1601763.6037100113,
+    "imageURI": "https://d35vxokfjoq7rk.cloudfront.net/0x4e1f41613c9084fdb9e34e11fae9412427480e56/9728.png?d=66",
+    "tokens": [
+      {
+        "tokenId": "9728",
+        "address": "0x4e1f41613c9084fdb9e34e11fae9412427480e56",
+        "attributes": {},
+        "name": null,
+        "value": null,
+        "multiTokenId": null
+      }
+    ],
+    "timeStamp": "2022-08-21T09:12:30Z",
     "paymentToken": "WETH",
     "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/looksrare.png",
     "marketplaceName": "LooksRare"
