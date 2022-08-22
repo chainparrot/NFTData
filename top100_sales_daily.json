@@ -1553,39 +1553,6 @@
   {
     "rank": 42,
     "id": "",
-    "collectionName": "Women Ape Yacht Club",
-    "collectionImage": "https://cryptoslam-token-images.s3.amazonaws.com/icons/wayc.jpg",
-    "marketplaceAddress": "0x00000000006c3852cbef3e08e8df289169ede581",
-    "transactionHash": "0xdb5cfe879f38f6a5387a8a6171a02f9b6b820ab3e24aab909a44e69a06975c7b",
-    "buyer": "0x4621D3A5b659752DE67365f06b37cEe03b93E15C",
-    "buyerDisplay": "0x4621D3A5b659752DE67365f06b37cEe03b93E15C",
-    "seller": "0x57EDC95fC5e9d6e7b973F598b339BCe0294a2732",
-    "sellerDisplay": "0x57EDC95fC5e9d6e7b973F598b339BCe0294a2732",
-    "price": 40.0,
-    "priceUSD": 63004.70703125,
-    "imageURI": "https://ipfs.cryptoslam.io/ipfs/Qmcf7Y9KyxX8q6gEczAu7mbjSeeeDHRK2pKphWVu3cdhA9/8.png",
-    "tokens": [
-      {
-        "tokenId": "7",
-        "address": null,
-        "attributes": {
-          "image": "https://ipfs.cryptoslam.io/ipfs/Qmcf7Y9KyxX8q6gEczAu7mbjSeeeDHRK2pKphWVu3cdhA9/8.png",
-          "name": "Women Ape Yacht Club 7",
-          "Legendary": "Legendary #8"
-        },
-        "name": null,
-        "value": null,
-        "multiTokenId": null
-      }
-    ],
-    "timeStamp": "2022-08-21T12:27:40",
-    "paymentToken": "ETH",
-    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/opensea-logo.png",
-    "marketplaceName": "OpenSea"
-  },
-  {
-    "rank": 43,
-    "id": "",
     "collectionName": "Bored Ape Yacht Club",
     "collectionImage": "https://d1nht67oz99wd1.cloudfront.net/resized/BoredApeYachtClub_resized.ico",
     "marketplaceAddress": "0xf896527c49b44aab3cf22ae356fa3af8e331f280",
@@ -1619,6 +1586,39 @@
     "paymentToken": "WETH",
     "marketplaceIcon": null,
     "marketplaceName": null
+  },
+  {
+    "rank": 43,
+    "id": "",
+    "collectionName": "Women Ape Yacht Club",
+    "collectionImage": "https://cryptoslam-token-images.s3.amazonaws.com/icons/wayc.jpg",
+    "marketplaceAddress": "0x00000000006c3852cbef3e08e8df289169ede581",
+    "transactionHash": "0xdb5cfe879f38f6a5387a8a6171a02f9b6b820ab3e24aab909a44e69a06975c7b",
+    "buyer": "0x4621D3A5b659752DE67365f06b37cEe03b93E15C",
+    "buyerDisplay": "0x4621D3A5b659752DE67365f06b37cEe03b93E15C",
+    "seller": "0x57EDC95fC5e9d6e7b973F598b339BCe0294a2732",
+    "sellerDisplay": "0x57EDC95fC5e9d6e7b973F598b339BCe0294a2732",
+    "price": 40.0,
+    "priceUSD": 63004.70703125,
+    "imageURI": "https://ipfs.cryptoslam.io/ipfs/Qmcf7Y9KyxX8q6gEczAu7mbjSeeeDHRK2pKphWVu3cdhA9/8.png",
+    "tokens": [
+      {
+        "tokenId": "7",
+        "address": null,
+        "attributes": {
+          "image": "https://ipfs.cryptoslam.io/ipfs/Qmcf7Y9KyxX8q6gEczAu7mbjSeeeDHRK2pKphWVu3cdhA9/8.png",
+          "name": "Women Ape Yacht Club 7",
+          "Legendary": "Legendary #8"
+        },
+        "name": null,
+        "value": null,
+        "multiTokenId": null
+      }
+    ],
+    "timeStamp": "2022-08-21T12:27:40",
+    "paymentToken": "ETH",
+    "marketplaceIcon": "https://cryptoslam-token-images.s3.amazonaws.com/icons/opensea-logo.png",
+    "marketplaceName": "OpenSea"
   },
   {
     "rank": 44,
