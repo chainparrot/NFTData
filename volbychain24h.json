@@ -2,74 +2,74 @@
   {
     "rank": 1,
     "blockchainId": "Solana",
-    "salesVolumeUSD": 2138986.8119452875,
-    "salesVolumeChangePercentage": 31.477731981476143,
+    "salesVolumeUSD": 2132747.993766515,
+    "salesVolumeChangePercentage": 29.071639184448376,
     "buyerCount": 6363,
-    "transactionCount": 31170,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 29028,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 2,
     "blockchainId": "Ethereum",
-    "salesVolumeUSD": 1807761.5658230197,
-    "salesVolumeChangePercentage": -16.722872284763106,
+    "salesVolumeUSD": 1905739.7983076097,
+    "salesVolumeChangePercentage": -4.68064780005711,
     "buyerCount": 10125,
-    "transactionCount": 14039,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 14385,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 3,
     "blockchainId": "ImmutableX",
-    "salesVolumeUSD": 668523.413001598,
-    "salesVolumeChangePercentage": -26.332374735984402,
+    "salesVolumeUSD": 869016.7053215206,
+    "salesVolumeChangePercentage": 16.970191601313573,
     "buyerCount": 2431,
-    "transactionCount": 27439,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 27998,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 4,
     "blockchainId": "Flow",
-    "salesVolumeUSD": 136267.96633885344,
-    "salesVolumeChangePercentage": -42.858594679168284,
+    "salesVolumeUSD": 143420.96633885344,
+    "salesVolumeChangePercentage": -33.69196405887633,
     "buyerCount": 1967,
-    "transactionCount": 7486,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 7545,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 5,
     "blockchainId": "Ronin",
-    "salesVolumeUSD": 108028.60641838744,
-    "salesVolumeChangePercentage": -14.64932650444531,
+    "salesVolumeUSD": 102978.29689104986,
+    "salesVolumeChangePercentage": -19.864410405560744,
     "buyerCount": 3789,
-    "transactionCount": 8596,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 7496,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 6,
     "blockchainId": "Panini",
-    "salesVolumeUSD": 67499.0,
-    "salesVolumeChangePercentage": -43.171782208143206,
+    "salesVolumeUSD": 68186.0,
+    "salesVolumeChangePercentage": -37.47458810493148,
     "buyerCount": 182,
-    "transactionCount": 2816,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 2744,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 7,
     "blockchainId": "WAX",
-    "salesVolumeUSD": 38868.04050736273,
-    "salesVolumeChangePercentage": -23.159830136164246,
+    "salesVolumeUSD": 35581.65084764826,
+    "salesVolumeChangePercentage": -31.927610043436438,
     "buyerCount": 1235,
-    "transactionCount": 8798,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 8792,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 8,
     "blockchainId": "Tezos",
-    "salesVolumeUSD": 38376.924662789104,
-    "salesVolumeChangePercentage": -23.14924887064228,
+    "salesVolumeUSD": 35442.67814816913,
+    "salesVolumeChangePercentage": -23.00804900204748,
     "buyerCount": 748,
-    "transactionCount": 1664,
-    "timestamp": "2022-10-16 12:07:36"
+    "transactionCount": 1701,
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 9,
@@ -78,15 +78,24 @@
     "salesVolumeChangePercentage": -73.5695788926799,
     "buyerCount": 658,
     "transactionCount": 10,
-    "timestamp": "2022-10-16 12:07:36"
+    "timestamp": "2022-10-16 16:05:59"
   },
   {
     "rank": 10,
+    "blockchainId": "Palm",
+    "salesVolumeUSD": 55.183786447533095,
+    "salesVolumeChangePercentage": -84.57748503441817,
+    "buyerCount": 926,
+    "transactionCount": 3,
+    "timestamp": "2022-10-16 16:05:59"
+  },
+  {
+    "rank": 11,
     "blockchainId": "Theta",
     "salesVolumeUSD": 0.480520078770766,
-    "salesVolumeChangePercentage": -92.78498380224075,
+    "salesVolumeChangePercentage": -93.89314641851979,
     "buyerCount": 1,
     "transactionCount": 1,
-    "timestamp": "2022-10-16 12:07:36"
+    "timestamp": "2022-10-16 16:05:59"
   }
 ]
