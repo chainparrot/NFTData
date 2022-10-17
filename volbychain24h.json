@@ -2,91 +2,82 @@
   {
     "rank": 1,
     "blockchainId": "Ethereum",
-    "salesVolumeUSD": 1685550.2307506083,
-    "salesVolumeChangePercentage": -3.8847280337999495,
-    "buyerCount": 10209,
-    "transactionCount": 15406,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 1799390.889777287,
+    "salesVolumeChangePercentage": -0.20068709468936338,
+    "buyerCount": 10529,
+    "transactionCount": 15699,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 2,
     "blockchainId": "Solana",
-    "salesVolumeUSD": 1146406.6413690133,
-    "salesVolumeChangePercentage": -45.38956414667089,
-    "buyerCount": 5374,
-    "transactionCount": 13721,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 1284517.2406553735,
+    "salesVolumeChangePercentage": -39.71049331827612,
+    "buyerCount": 4667,
+    "transactionCount": 15499,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 3,
     "blockchainId": "ImmutableX",
-    "salesVolumeUSD": 951244.8006293739,
-    "salesVolumeChangePercentage": -9.141882898379327,
-    "buyerCount": 2439,
-    "transactionCount": 25524,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 956076.6591275604,
+    "salesVolumeChangePercentage": 42.948721940734366,
+    "buyerCount": 2500,
+    "transactionCount": 24877,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 4,
     "blockchainId": "Flow",
-    "salesVolumeUSD": 241557.97277434368,
-    "salesVolumeChangePercentage": 70.57733297626167,
-    "buyerCount": 2257,
-    "transactionCount": 10695,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 258590.00643549024,
+    "salesVolumeChangePercentage": 89.52519420983697,
+    "buyerCount": 2835,
+    "transactionCount": 11210,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 5,
     "blockchainId": "Ronin",
-    "salesVolumeUSD": 101354.91093391542,
-    "salesVolumeChangePercentage": -10.4927419419569,
-    "buyerCount": 3556,
-    "transactionCount": 7556,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 108445.64726070524,
+    "salesVolumeChangePercentage": 0.8441984584169858,
+    "buyerCount": 3510,
+    "transactionCount": 8735,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 6,
     "blockchainId": "Panini",
-    "salesVolumeUSD": 56461.0,
-    "salesVolumeChangePercentage": -16.805174903486282,
-    "buyerCount": 170,
-    "transactionCount": 2319,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 56474.0,
+    "salesVolumeChangePercentage": -16.129798767357244,
+    "buyerCount": 171,
+    "transactionCount": 2364,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 7,
     "blockchainId": "WAX",
-    "salesVolumeUSD": 52210.35262663423,
-    "salesVolumeChangePercentage": 32.552652642518304,
-    "buyerCount": 1231,
-    "transactionCount": 9510,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 55352.773954380544,
+    "salesVolumeChangePercentage": 43.88570884559087,
+    "buyerCount": 1253,
+    "transactionCount": 9711,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 8,
     "blockchainId": "Tezos",
-    "salesVolumeUSD": 33171.976840965355,
-    "salesVolumeChangePercentage": -0.8991714823186441,
-    "buyerCount": 814,
-    "transactionCount": 1790,
-    "timestamp": "2022-10-17 08:14:00"
+    "salesVolumeUSD": 28108.330642785837,
+    "salesVolumeChangePercentage": -27.214530023433937,
+    "buyerCount": 819,
+    "transactionCount": 1873,
+    "timestamp": "2022-10-17 12:08:29"
   },
   {
     "rank": 9,
     "blockchainId": "Palm",
     "salesVolumeUSD": 55.183786447533095,
     "salesVolumeChangePercentage": 0.0,
-    "buyerCount": 1195,
+    "buyerCount": 1045,
     "transactionCount": 3,
-    "timestamp": "2022-10-17 08:14:00"
-  },
-  {
-    "rank": 10,
-    "blockchainId": "BSC",
-    "salesVolumeUSD": 16.24944748684482,
-    "salesVolumeChangePercentage": -93.98856829208083,
-    "buyerCount": 621,
-    "transactionCount": 1,
-    "timestamp": "2022-10-17 08:14:00"
+    "timestamp": "2022-10-17 12:08:29"
   }
 ]
