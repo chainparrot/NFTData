@@ -2,145 +2,136 @@
   {
     "rank": 1,
     "blockchainId": "ethereum",
-    "salesVolumeUSD": 7828262.958732816,
-    "salesVolumeChangePercentage": -22.546275434922933,
+    "salesVolumeUSD": 8212175.892925614,
+    "salesVolumeChangePercentage": -4.553793966810791,
     "buyerCount": 12798,
-    "transactionCount": 27657,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 27098,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 2,
-    "blockchainId": "solana",
-    "salesVolumeUSD": 986030.5587205295,
-    "salesVolumeChangePercentage": -14.161374346530634,
-    "buyerCount": 4171,
-    "transactionCount": 9291,
-    "timestamp": "2022-10-23 12:07:25"
+    "blockchainId": "immutablex",
+    "salesVolumeUSD": 868985.544360047,
+    "salesVolumeChangePercentage": 54.3459385593106,
+    "buyerCount": 2354,
+    "transactionCount": 21125,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 3,
-    "blockchainId": "immutablex",
-    "salesVolumeUSD": 871579.8238577148,
-    "salesVolumeChangePercentage": 38.07164905422793,
-    "buyerCount": 2354,
-    "transactionCount": 22176,
-    "timestamp": "2022-10-23 12:07:25"
+    "blockchainId": "solana",
+    "salesVolumeUSD": 858611.2237171755,
+    "salesVolumeChangePercentage": -30.207846424978296,
+    "buyerCount": 4171,
+    "transactionCount": 8958,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 4,
     "blockchainId": "bnb",
-    "salesVolumeUSD": 205278.33158703792,
-    "salesVolumeChangePercentage": -20.95655603003382,
+    "salesVolumeUSD": 222023.94535599172,
+    "salesVolumeChangePercentage": -25.653827296194116,
     "buyerCount": 1112,
-    "transactionCount": 1048,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 1049,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 5,
     "blockchainId": "flow",
-    "salesVolumeUSD": 181944,
-    "salesVolumeChangePercentage": -43.01606689843089,
+    "salesVolumeUSD": 179895,
+    "salesVolumeChangePercentage": -40.27033488057055,
     "buyerCount": 4644,
-    "transactionCount": 8191,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 8190,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 6,
     "blockchainId": "avalanche",
-    "salesVolumeUSD": 84389.90000000002,
-    "salesVolumeChangePercentage": -3.66135769439399,
+    "salesVolumeUSD": 77128.66000000003,
+    "salesVolumeChangePercentage": -21.34853287675212,
     "buyerCount": 351,
-    "transactionCount": 727,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 675,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 7,
-    "blockchainId": "polygon",
-    "salesVolumeUSD": 78189.93000000001,
-    "salesVolumeChangePercentage": -0.6287914911990256,
-    "buyerCount": 944,
-    "transactionCount": 1085,
-    "timestamp": "2022-10-23 12:07:25"
+    "blockchainId": "ronin",
+    "salesVolumeUSD": 74561.6715303125,
+    "salesVolumeChangePercentage": -13.532118334975216,
+    "buyerCount": 3658,
+    "transactionCount": 6178,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 8,
-    "blockchainId": "ronin",
-    "salesVolumeUSD": 74876.32262914939,
-    "salesVolumeChangePercentage": -16.56814323196622,
-    "buyerCount": 3658,
-    "transactionCount": 6071,
-    "timestamp": "2022-10-23 12:07:25"
+    "blockchainId": "polygon",
+    "salesVolumeUSD": 68528.33,
+    "salesVolumeChangePercentage": -1.9459323215627804,
+    "buyerCount": 944,
+    "transactionCount": 1047,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 9,
     "blockchainId": "panini",
-    "salesVolumeUSD": 67219,
-    "salesVolumeChangePercentage": -47.181084354996166,
+    "salesVolumeUSD": 65272,
+    "salesVolumeChangePercentage": -36.99803635257316,
     "buyerCount": 226,
-    "transactionCount": 2079,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 2010,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 10,
     "blockchainId": "arbitrum",
-    "salesVolumeUSD": 36726.18000000001,
+    "salesVolumeUSD": 34929.06000000001,
     "salesVolumeChangePercentage": -18.181815701378024,
     "buyerCount": 728,
-    "transactionCount": 4217,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 4098,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 11,
     "blockchainId": "wax",
-    "salesVolumeUSD": 21033.97863319166,
-    "salesVolumeChangePercentage": -19.957043798743815,
+    "salesVolumeUSD": 21656.116577723926,
+    "salesVolumeChangePercentage": -17.521781693668803,
     "buyerCount": 3386,
-    "transactionCount": 10638,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 10270,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 12,
     "blockchainId": "palm",
-    "salesVolumeUSD": 12874.897328958297,
-    "salesVolumeChangePercentage": 230.99999928804345,
+    "salesVolumeUSD": 11794.998725230012,
+    "salesVolumeChangePercentage": -6.14754052443972,
     "buyerCount": 273,
-    "transactionCount": 806,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 787,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 13,
     "blockchainId": "cronos",
-    "salesVolumeUSD": 5028.37,
-    "salesVolumeChangePercentage": 228.37457963266363,
+    "salesVolumeUSD": 4755.1,
+    "salesVolumeChangePercentage": 164.67053551752002,
     "buyerCount": 23,
-    "transactionCount": 33,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 32,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 14,
-    "blockchainId": "theta",
-    "salesVolumeUSD": 988.0400393229816,
-    "salesVolumeChangePercentage": 2720.775712307535,
-    "buyerCount": 0,
-    "transactionCount": 2,
-    "timestamp": "2022-10-23 12:07:25"
+    "blockchainId": "fantom",
+    "salesVolumeUSD": 409.72,
+    "salesVolumeChangePercentage": 66.66666666666666,
+    "buyerCount": 10,
+    "transactionCount": 1,
+    "timestamp": "2022-10-23 16:06:00"
   },
   {
     "rank": 15,
-    "blockchainId": "fantom",
-    "salesVolumeUSD": 477.12,
-    "salesVolumeChangePercentage": 43.76543209876543,
-    "buyerCount": 10,
-    "transactionCount": 5,
-    "timestamp": "2022-10-23 12:07:25"
-  },
-  {
-    "rank": 16,
     "blockchainId": "oec",
-    "salesVolumeUSD": 13.54,
+    "salesVolumeUSD": 47.93,
     "salesVolumeChangePercentage": 0,
     "buyerCount": 3,
-    "transactionCount": 2,
-    "timestamp": "2022-10-23 12:07:25"
+    "transactionCount": 10,
+    "timestamp": "2022-10-23 16:06:00"
   }
 ]
