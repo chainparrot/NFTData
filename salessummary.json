@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "contractName": "Fan Tokens",
+    "salesVolumeUSD": 150837977.89624,
+    "buyerCount": 0,
+    "sellerCount": 0,
+    "transactionCount": 0,
+    "salesVolumeChangePercentage": -42.5188143949104,
+    "previousSalesVolumeUSD": 262412781.344727,
+    "timestamp": "2022-11-02 16:06:29"
+  },
+  {
+    "contractName": "NFTs",
+    "salesVolumeUSD": 34227774.080364205,
+    "buyerCount": 35545,
+    "sellerCount": 35057,
+    "transactionCount": 101976,
+    "salesVolumeChangePercentage": -19.552095161618823,
+    "previousSalesVolumeUSD": 42546507.76689259,
+    "timestamp": "2022-11-02 16:06:29"
+  }
+]
