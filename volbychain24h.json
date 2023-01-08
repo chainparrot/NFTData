@@ -2,146 +2,146 @@
   {
     "rank": 1,
     "blockchainId": "ethereum",
-    "salesVolumeUSD": 24045568.687790424,
-    "salesVolumeChangePercentage": -15.821909692372849,
+    "salesVolumeUSD": 25267833.447366677,
+    "salesVolumeChangePercentage": -7.192610820171046,
     "buyerCount": 16234,
-    "transactionCount": 36017,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 38440,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 2,
     "blockchainId": "solana",
-    "salesVolumeUSD": 4428793.439785413,
-    "salesVolumeChangePercentage": 0.0644779833521915,
+    "salesVolumeUSD": 4250746.857952593,
+    "salesVolumeChangePercentage": -6.410093383647311,
     "buyerCount": 7863,
-    "transactionCount": 30894,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 30205,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 3,
-    "blockchainId": "immutablex",
-    "salesVolumeUSD": 452812.57661281375,
-    "salesVolumeChangePercentage": -4.012253855310294,
-    "buyerCount": 1789,
-    "transactionCount": 14300,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "bnb",
+    "salesVolumeUSD": 414818.73231998493,
+    "salesVolumeChangePercentage": -37.037396184738824,
+    "buyerCount": 784,
+    "transactionCount": 1649,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 4,
-    "blockchainId": "bnb",
-    "salesVolumeUSD": 407456.3323199848,
-    "salesVolumeChangePercentage": -37.03753690262419,
-    "buyerCount": 784,
-    "transactionCount": 1684,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "immutablex",
+    "salesVolumeUSD": 379079.06851278135,
+    "salesVolumeChangePercentage": -32.93584163980222,
+    "buyerCount": 1789,
+    "transactionCount": 13770,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 5,
     "blockchainId": "cardano",
-    "salesVolumeUSD": 324759.9900000004,
-    "salesVolumeChangePercentage": -10.0471967230144,
+    "salesVolumeUSD": 312380.04999999964,
+    "salesVolumeChangePercentage": -12.447201770043755,
     "buyerCount": 1627,
-    "transactionCount": 3947,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 4417,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 6,
-    "blockchainId": "flow",
-    "salesVolumeUSD": 133721,
-    "salesVolumeChangePercentage": 9.168020507629132,
-    "buyerCount": 1536,
-    "transactionCount": 6290,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "polygon",
+    "salesVolumeUSD": 158349.55999999997,
+    "salesVolumeChangePercentage": 37.12885304206267,
+    "buyerCount": 3670,
+    "transactionCount": 18833,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 7,
-    "blockchainId": "polygon",
-    "salesVolumeUSD": 114330.34000000005,
-    "salesVolumeChangePercentage": -18.40839167062363,
-    "buyerCount": 3670,
-    "transactionCount": 20309,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "flow",
+    "salesVolumeUSD": 125587,
+    "salesVolumeChangePercentage": -11.645560714788237,
+    "buyerCount": 1536,
+    "transactionCount": 6245,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 8,
-    "blockchainId": "arbitrum",
-    "salesVolumeUSD": 56801.69999999999,
-    "salesVolumeChangePercentage": -18.181815701378024,
-    "buyerCount": 322,
-    "transactionCount": 517,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "tezos",
+    "salesVolumeUSD": 57004.85389884747,
+    "salesVolumeChangePercentage": -28.419470310052418,
+    "buyerCount": 307,
+    "transactionCount": 2809,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 9,
     "blockchainId": "panini",
-    "salesVolumeUSD": 46461,
-    "salesVolumeChangePercentage": -43.845090237523145,
+    "salesVolumeUSD": 48415,
+    "salesVolumeChangePercentage": -39.251316231937885,
     "buyerCount": 209,
-    "transactionCount": 2222,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 2267,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 10,
     "blockchainId": "ronin",
-    "salesVolumeUSD": 42551.46912755298,
-    "salesVolumeChangePercentage": 53.41994231561574,
+    "salesVolumeUSD": 42629.55865877979,
+    "salesVolumeChangePercentage": 53.70319867337135,
     "buyerCount": 1526,
-    "transactionCount": 3184,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 3367,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 11,
-    "blockchainId": "tezos",
-    "salesVolumeUSD": 41110.91571165497,
-    "salesVolumeChangePercentage": -50.59034599040464,
-    "buyerCount": 307,
-    "transactionCount": 1672,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "arbitrum",
+    "salesVolumeUSD": 35793.18,
+    "salesVolumeChangePercentage": -18.181815701378024,
+    "buyerCount": 322,
+    "transactionCount": 544,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 12,
     "blockchainId": "wax",
-    "salesVolumeUSD": 31876.594560317477,
-    "salesVolumeChangePercentage": -35.973595473455504,
+    "salesVolumeUSD": 31445.033909309124,
+    "salesVolumeChangePercentage": -36.84416026302321,
     "buyerCount": 1311,
-    "transactionCount": 14890,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 15034,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 13,
-    "blockchainId": "algorand",
-    "salesVolumeUSD": 25854.75000000001,
-    "salesVolumeChangePercentage": -18.33471365287417,
-    "buyerCount": 405,
-    "transactionCount": 3133,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "avalanche",
+    "salesVolumeUSD": 26509.98,
+    "salesVolumeChangePercentage": 73.34666021011195,
+    "buyerCount": 156,
+    "transactionCount": 559,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 14,
-    "blockchainId": "avalanche",
-    "salesVolumeUSD": 23934.949999999983,
-    "salesVolumeChangePercentage": 4.740142634435203,
-    "buyerCount": 156,
-    "transactionCount": 552,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "algorand",
+    "salesVolumeUSD": 24534.530000000002,
+    "salesVolumeChangePercentage": -13.277928477125078,
+    "buyerCount": 405,
+    "transactionCount": 1591,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 15,
-    "blockchainId": "cronos",
-    "salesVolumeUSD": 5543.2,
-    "salesVolumeChangePercentage": 11.283699568030883,
-    "buyerCount": 35,
-    "transactionCount": 58,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "palm",
+    "salesVolumeUSD": 5992.058341692705,
+    "salesVolumeChangePercentage": 1256.5426300955164,
+    "buyerCount": 77,
+    "transactionCount": 415,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 16,
-    "blockchainId": "palm",
-    "salesVolumeUSD": 3965.3195152887374,
-    "salesVolumeChangePercentage": 1224.5298249734676,
-    "buyerCount": 77,
-    "transactionCount": 296,
-    "timestamp": "2023-01-08 00:19:41"
+    "blockchainId": "cronos",
+    "salesVolumeUSD": 4783.480000000001,
+    "salesVolumeChangePercentage": -15.983253716105535,
+    "buyerCount": 35,
+    "transactionCount": 52,
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 17,
@@ -150,7 +150,7 @@
     "salesVolumeChangePercentage": 422.7068633739576,
     "buyerCount": 5,
     "transactionCount": 6,
-    "timestamp": "2023-01-08 00:19:41"
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 18,
@@ -159,15 +159,15 @@
     "salesVolumeChangePercentage": 0,
     "buyerCount": 3,
     "transactionCount": 19,
-    "timestamp": "2023-01-08 00:19:41"
+    "timestamp": "2023-01-08 04:05:24"
   },
   {
     "rank": 19,
     "blockchainId": "theta",
-    "salesVolumeUSD": 6.428874879162614,
-    "salesVolumeChangePercentage": -81.733923093143,
+    "salesVolumeUSD": 1,
+    "salesVolumeChangePercentage": -97.54069187434872,
     "buyerCount": 2,
-    "transactionCount": 2,
-    "timestamp": "2023-01-08 00:19:41"
+    "transactionCount": 1,
+    "timestamp": "2023-01-08 04:05:24"
   }
 ]
